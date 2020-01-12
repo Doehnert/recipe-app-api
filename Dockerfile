@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER Elton Fernando Doehnert
+LABEL Elton Fernando Doehnert
 
 ENV PYTHONUNBUFFERED 1
 
